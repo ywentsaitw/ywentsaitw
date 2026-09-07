@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Kelly 👋</h1>
-<h3 align="center">Yueh-Wen Tsai · 轉職中</h3>
+<h3 align="center">Yueh-Wen Tsai · 轉職中 · Career Transition</h3>
 
 ---
 
@@ -16,6 +16,12 @@
 目前對**榮格心理學**非常感興趣，也希望將來有機會朝心理諮商師、榮格分析師等方向前進。與此同時，我正處在轉職階段，一邊整理過往的累積，一邊探索下一步想走的路。最近迷上了 **Vibe Coding**——用更直覺、更有節奏的方式跟 AI 一起寫東西、解問題。Cursor、Claude Code、GitHub、Gemini AI Studio 是我現在最常開著的幾個工具。
 
 如果你也關心人在不同階段的經歷、轉變與成長，也在轉換跑道、學新東西，或只是好奇這些工具能玩出什麼花樣，歡迎來聊聊。
+
+<p><i>
+I'm a lifelong reader, thinker, and someone who loves to help others.<br><br>
+I'm deeply interested in <b>Jungian psychology</b> and hope to pursue a path as a therapist or Jungian analyst someday. At the same time, I'm in a career transition—sorting through what I've built so far while exploring what comes next. Lately I've been into <b>Vibe Coding</b>—a more intuitive, rhythmic way of building and problem-solving with AI. Cursor, Claude Code, GitHub, and Gemini AI Studio are the tools I reach for most these days.<br><br>
+If you care about how people navigate different stages of life—their experiences, transitions, and growth—or if you're switching careers, learning something new, or just curious what these tools can do, I'd love to chat.
+</i></p>
 
 ---
 
